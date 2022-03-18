@@ -9,7 +9,7 @@ ihmc {
    group = "us.ihmc"
    version = "3.5.0-stable"
    vcsUrl = "https://bitbucket.ihmc.us/projects/TPOSL/repos/jme3-dae"
-   openSource = false
+   openSource = true
    
    configureDependencyResolution()
    configurePublications()
