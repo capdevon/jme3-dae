@@ -8,7 +8,7 @@ plugins {
 ihmc {
    group = "us.ihmc"
    version = "0.0"
-   vcsUrl = "https://stash.ihmc.us/"
+   vcsUrl = "https://bitbucket.ihmc.us/projects/TPOSL/repos/jme3-dae"
    openSource = false
    
    configureDependencyResolution()
