@@ -7,7 +7,7 @@ plugins {
 
 ihmc {
    group = "us.ihmc"
-   version = "3.5.0-stable"
+   version = "3.5.1-stable"
    vcsUrl = "https://bitbucket.ihmc.us/projects/TPOSL/repos/jme3-dae"
    openSource = true
    
