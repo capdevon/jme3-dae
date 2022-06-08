@@ -15,7 +15,7 @@ ihmc {
    configurePublications()
 }
 
-val jmeVersion = "3.5.1-stable"
+val jmeVersion = "3.5.2-stable"
 
 mainDependencies {
    api("org.jmonkeyengine:jme3-core:$jmeVersion")
